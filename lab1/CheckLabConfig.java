@@ -1,5 +1,5 @@
 import java.io.File;
-
+//hello
 public class CheckLabConfig {
 	public static void checkConfig(boolean isWindows) {
 		String repoVariableName = "REPO_DIR";
